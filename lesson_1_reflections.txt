@@ -1,0 +1,28 @@
+Reflexiones sobre el tema 1
+
+
+How could having easy access to the entire history of a file make your a more efficient programmer in the long term?
+
+Mediante un control de versiones eficiente.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like yor do in Git, vs having 
+versions automatically saved, like Google Docs does?
+
+La posibilidad de hacer commit cuando hay una unidad lógica coherente para hacerlo, a diferencia de siempre que el sistema 
+decida hacerlo.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+Porque un sistema está preparado para trabajar con ficheros interrelacionados mientras que el otro funciona para documentos que
+son un todo en si mismos. Un programa puede estar compuesto por múltiples ficheros que se interrelacionan, mientras que por lo
+general un documento es único.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log para ver el historico de commits
+git diff commit_id1 commit_id2, para ver las diferencias entre dos commits.
+
+How might using version control make yor more confident to make changes that could break something?
+
+con la herramienta checkout, se puede volver atras y adelante en cualquier momento.

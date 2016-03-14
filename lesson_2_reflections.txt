@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The files inside the repository are added to untracked files. This is the manner in with you can create a repository.
