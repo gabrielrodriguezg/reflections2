@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 The files inside the repository are added to untracked files. This is the manner in with you can create a repository.
+
+How is the staging area different form the working directory and the repository?
+What value do you think it offers?
+
+In the staging area only there are files included . The value, ies you can cratelogical commints on your own .
